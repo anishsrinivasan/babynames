@@ -1,5 +1,5 @@
 const csv = require("csvtojson");
-const csvFilePath = "./names3.csv";
+const csvFilePath = "./names4.csv";
 let json,
     allNames = [];
 names = [];
